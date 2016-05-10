@@ -4,4 +4,4 @@ Do you [give him one?](../yes/yes.md)
 
 Or do you say [no?](../no/no.md)
 
-Maybe you should tell him a [joke](../joke/joke.md).
+Maybe you should tell him a [joke](../jokes/joke.md).
