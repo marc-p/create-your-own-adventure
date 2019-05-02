@@ -20,3 +20,19 @@ Che fai?
 [Alice non abita più qui] (alice/alice.md)
 
 [Cerco un computer] (giocare/computer.md)
+
+[Passeggiare] (passeggiare/passeggiare.md)
+
+[Salgo in macchina] (ascoltare/profumato.md)
+
+[Telefono ad Antonio Conte](antonio_conte/antonio.md)
+
+[Lavorare](lavorare/lavorare.md)
+
+[Accendo la luce](luce/luce.md)
+
+[Cerco lo smartphone] (smartphone/smartphone.md)
+
+[Canto](canto/canto.md)
+
+[Guardo l'orologio](orologio/orologio.md)

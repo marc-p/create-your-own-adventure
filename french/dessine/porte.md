@@ -7,3 +7,6 @@ Donc je decide de
 [Essayer d'ouvrir la porte faite de chocolat](chocolat/essayer-ouvrir-chocolat.md)
 
 
+[Essayer mange la porte faite de caramel](caramel/mangez-caramel.md)
+
+[Ouvrir la porte faite de miel](porte/ouvrir-porte.md)

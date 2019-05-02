@@ -3,7 +3,13 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
+
+[Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
+
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
+
+[Encontra uns cogumelos na geladeira e decide consumi-los](cogumelos/cogumelos.md)
 
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
@@ -25,6 +31,10 @@ Você:
 
 [Mas esse navio não pode ter bugs!](titanic/iceberg.md)
 
+[Vai ao banheiro e pega sua toalha](toalha/nave.md)
+
+[Toda vez que eu chego em casa...](barata/baratadavizinha.md)
+
 Na verdade, isto tudo é a sua imaginação. Você vive em 1991 e usa MS-DOS 5.0 e um modem de 9600 baud.
 
 A sua linha telefônica está uma droga hoje e você tem que baixar a ultima versão do XTree para enciumar os seus amigos.
@@ -45,3 +55,19 @@ Vende seu PC?
 Um tijolo pesa 1 quilo mais meio tijolo. Quanto pesa 1 tijolo e meio?
 
 BR BR BR Hue hue hue!!!!
+
+[Você foi assaltado](ladrao/assalto.md)
+
+[Você vira um jogador...](futebol/futebol.md)
+
+[História com um fim muito legal] (historia/fim.md)
+
+[Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+
+[Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+
+[Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
+
+[Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
+
+[Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)

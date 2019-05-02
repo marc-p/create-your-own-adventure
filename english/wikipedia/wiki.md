@@ -6,6 +6,8 @@ It is best of the internet.
 
 It is free.
 
+Potato
+
 It is mesmerizing.
 
 It is transcendental.
@@ -31,8 +33,12 @@ Until you get bored and go explore [here](https://www.urbandictionary.com) inste
 
 Then after you explore the website, you learn a few neat tricks. 
 
+Then you want to show the world your new tricks by creating your own channel on [YouTube](https://www.youtube.com/). 
+
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
 
 [Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
+
+After learning so much from Wikipedia, you become the Wikiperson.

@@ -1,9 +1,80 @@
-Your adventure begins. You realize there are hundreds of paths for you to choose from. 
-Which way should you go? Only you can decide. 
+Once upon a time many authors collaborated to make meaningless linked story.
 
+And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+
+Now what?
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
+Enter [The Forest!](forest/forest.md)
+
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
+
+hi~
+
+NGE is [here](NGE/NGE.md)
+
+[start](mad/mad.md) your journey into world of mad
+
+or
+
+spend your time [wisely](http://www.pythonchallenge.com/)
+
+[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
+
+Are you a:
+
+[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0)
+
+or a
+
+[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
+
+Your adventure begins. You realize there are hundreds of paths for you to choose from.
+Which way should you go? Only you can decide.
+
+Oh so many decisions - what will you do??
+
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
+The path you choose is as good as any.
+
+You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
+
+[Build time machine](time-machine/time-machine.md)
+
+Take some [time](meditation/meditation.md) off!
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
+
+Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+
+Who is better?
+
+[Click Here](captain/captain.md) to vote for Captain America
+
+[Click Here](ironman/ironman.md) to vote for Iron Man
+
+[Click here](00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[click here](london/london.md) to vote for london
+
+January 2017 approaches. You have two presidential candidates to vote for.
+
+[Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
+
+[Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
+
+You don't like either of these candidates.
+So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
+or
+[paint a picture](paint-a-picture/paint-a-picture.md).
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
+
+It is time to begin your adventure.
+Your search for the grail begins [now](Monty-Python/search.md)
 
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
@@ -12,6 +83,8 @@ They seem friendly so you decide to go [talk to them.](friendly-person/friendly-
 Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
+
+How about some [chill music](chillmusic/chillmusic.md)?
 
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
@@ -22,9 +95,9 @@ DOING will definitely keep your sharpened with latest skills (which you can get 
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
-Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
+Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
 
 Vist the master [liquid](liquid/liquid.md).
 
@@ -35,6 +108,8 @@ Drink some [bear](bear/bear.md)
 and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
+
+Once you're warmed up, why not try a [work out?](work-out/work-out.md)
 
 or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
 
@@ -70,6 +145,10 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
+Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
+
+[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
+
 Ok, we have to consider Saturday too.
 
 [this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
@@ -94,6 +173,8 @@ It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
 No... perhaps not.
 
+Not at all.
+
 I think it was an [animal](animal/animal.md).
 
 Nope, it was [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) sobbing in despair.
@@ -115,6 +196,8 @@ Or is this just [fantasy](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)?
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
 
+Maybe you're in [Inception](inception/inception.md).
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
@@ -126,6 +209,27 @@ I actually used to know a guy named Dave Granger. We sure had some good times! A
 The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
+
+The man is not large but not small, but not average either.
+He is reciting poetry in a language you assume to be Egyptian,
+though you are not familiar with Egyptian. You only assume this
+because of the small pictograms that seem to rise into the
+air above his head when he speaks. One looks like a small bird.
+Another a small insect. A third is for all appearances the
+third car your father ever bought you, a small Fiat 500, which
+though in the picture above the man's head is purple, was
+in reality more of a mauve. It had a tendency to bark whenever
+you drove it over hills, not like the proud great dane from
+Nova Scotia that most smaller cars tend to imitate when taking
+on tasks greater than their strengths, but rather more like
+the small pomerainian who is now barking at the blue music notes
+hovering over the man's large-ish head, now peeing on the
+back of the sofa, making it difficult for you to remember the
+name of that dude you totally scored with in the back of your
+Fiat 500. You're finding it difficult to think. You sit down on
+the sofa to gather your thoughts. You think of all the men
+you slept with on your hitch hiking journeys across the southern
+american continent.
 
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
@@ -166,6 +270,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+You can't decide if anything is worth it anymore so you loose yourself at a [David Gray concert.](concert/concert.md)
+
 Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
@@ -196,11 +302,16 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You see a polar bear searching for food.
 
+I see that you may be from the North. [How's it going?](./north/north.md)
+
 [A Shotgun appears!](./shotgun/shotgun.md)
 
 [Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
+
+In a brief moment of clarity, you decide it's time for a change and start to
+[cycle forwards](./cycling-forwards/cycling-forwards.md).
 
 You hear a small bird sound in the distance.
 
@@ -211,6 +322,8 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
 You hear a strange noise then turn and see a large, wooden door.
+Too large, in fact, and yet too small, for the frame it rests in.
+You [walk through the door](./unnatural_door/unnatural_door.md).
 
 You turn for a third time and see a small, metal door.
 
@@ -256,6 +369,8 @@ Oh, I know. Click [here](hermione/hermioneHere.md)
 
 You pick up the fork and wrap it in rope to fashion a crappy wand.
 
+For more on wand history [here](./wand/wand.md).
+
 Pointing it at the door, eyes closed, "Alohomora..."
 
 Nothing seems to be happening.
@@ -276,6 +391,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+Give up and [start over](marshmallow.md).
 
 [Listen to Tales of the Inexpressable (By Shpongle)](https://www.youtube.com/watch?v=6WTxC8wnXQo)
 
@@ -368,6 +485,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
 
 [Light a fire?](light-fire/fire.md)
+
+[jump in a chocolate pool?](chocopool/choco.md)
 
 [Hungry Kya?](hungry/hungry.md)
 
@@ -630,7 +749,7 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Screaming goat is screaming](https://youtu.be/kh6c0SOfkH4)
 
-[Play on miniclip!] (papa-louie/papa-louie.md)
+[Play on miniclip!](papa-louie/papa-louie.md)
 
 [Visit Sturgis 2015!](sturgis2015/sturgis.md)
 
@@ -658,7 +777,7 @@ Click [here](young/young.md) to listen to music.
 
 [Decide to browse Reddit instead](https://www.reddit.com/)
 
-[It's time to take a vacation] (licked-cat/vacation.md)
+[It's time to take a vacation](licked-cat/vacation.md)
 
 And then you realize that Burning Man is over, so no real vacations :(
 
@@ -686,7 +805,7 @@ whilst wandering through the vastness of this universe.
 
 Either way we are cool, right?
 
-This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
+This [miracle man](copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your
 phone to find something else to do](check-phone/check-phone.md).
@@ -754,21 +873,21 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
-Friday, December 4th.  
+Despite the little conundrum that you resolved, you realize that it's now
+Friday, December 4th.
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
 
 With that new revelation in mind, you quickly make like David Hasselhoff
 and wiggle your wrist to show off a nice particular watch that even listens
-to you when you speak to it.  
+to you when you speak to it.
 
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
 >>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
-["Train Ride!"] (train-ride/train-ride.md)
+["Train Ride!"](train-ride/train-ride.md)
 
 I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/star-wars.md)
 
@@ -776,9 +895,9 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines 
+When faced with a lot of work and impending deadlines
 in the (not so near) future,
-there are two options you must choose from. 
+there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
@@ -790,16 +909,18 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
-"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
+"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
 Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve](joshua_24_15/joshua_24_15.md)?"
 
 Yourself?
 
 Instead of reading this entire story, you decide to go see the new star wars!
+
+As you're walking down the street you see [something](millenium-falcon/flyaway.md)
 
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
 
@@ -809,7 +930,7 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 
-The divergence is coming, [survive](divergence/divergence.md) or perish? 
+The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
 
@@ -833,6 +954,7 @@ So shall you reap, and the [steelers](steelers/steelers.md) know that all too we
 
 Until you realize that even marshmallows need [LOVE](https://www.youtube.com/watch?v=i5fZ__mnHbU).
 
+Marcel needs a new pair of shoes, will you buy shoes for [Marcel](https://www.youtube.com/watch?v=VF9-sEbqDvU)?
 
 You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
 
@@ -844,9 +966,11 @@ The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-
 
 The understanding of git [go here](Booyah/booyah.md)
 
-[Link to Git Official Website] (git/git.md)
+[Link to Git Official Website](git/git.md)
 
-[link to google website] (kumar/kumar.md)
+[link to google website](kumar/kumar.md)
+
+Do you want to know [Git disadvantage?](git_disadvantage/git_disadvantage.md)
 
 Hi i got this one for udacity team.
 
@@ -861,11 +985,11 @@ Let it go, let it gooo...
 
 CANT HOLD IT BACK ANY MORE
 
-Do you want to build a [snowman?] (snowman/snowman.md)
+Do you want to build a [snowman?](snowman/snowman.md)
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
-I think I'll try defying gravity. 
+I think I'll try defying gravity.
 
 Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
 
@@ -893,7 +1017,7 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
-The [boom](day-dream/day-dream.md) 
+The [boom](day-dream/day-dream.md)
 
 Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
 
@@ -905,7 +1029,7 @@ You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
 
 You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md).
 
-So what to do next? Three doors appear and all other ways out disappear. 
+So what to do next? Three doors appear and all other ways out disappear.
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
@@ -919,7 +1043,7 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 
 [Do nothing.](nothing/do-nothing.md)
 
-[Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
+[Rent a hydroplaning dog sled to get you to the other side of the world](dog-sled/dogsled.md)
 
 Toasted [marshmallow](toasted/smores_pie.md)
 
@@ -936,7 +1060,7 @@ A light appears all around you and something comes into focus in the distance. [
 
 Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
 
-If you have read this far, then you must be in pain.  
+If you have read this far, then you must be in pain.
 Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
 
 As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can hear the troops getting closer.
@@ -946,3 +1070,178 @@ Health and Life Lovely [Quotes](./health/health.md)
 The lannisters always pays thier debts, says tyrion lannister. Interesting [character](./gameofthrones/tyrion.md) he is.
 
 Time to [move to Canada](Canada/Canada.md), eh?
+
+You struggle to find a line break to add your own adventure.
+You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
+
+
+
+The crushing weight of all these options causes you to [end your life.](end/end.md)
+
+You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
+
+[Motivate yourself](Motivate/Motivate.md)
+
+You wake up as Harry Potter ... and are facing Voldemort in a duel?
+What should you [do](magicaladventure/decision_time/decision_time.md)
+
+My tea's gone cold I'm wondering [why](stan/stan.md) I got out of bed at all...
+
+[Click](vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+
+You decide you want to be a pirate and remember a show called
+[onepiece](onepiece/op.md)
+
+You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
+
+you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
+
+Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
+
+You wake up in the morning and your [computer is looking out of the window](computer-window/computer-window.md)
+
+Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
+
+You've been charged with treason against the King. You wake up in [prison](prison/prison.md).
+
+My visit to the [zoo](zoo/zoo.md).
+
+You wake up confused, you faint you go back in [time](time-travel/time-travel.md)
+
+[The Hungry Prince](hungry_prince/hungry_prince.md)
+
+[The Angry Prince](angry_prince/angry_prince.md)
+
+The password is [xyzzy](plugh/plugh.md)
+
+[Say "Hi" to Guangwu](Guangwu/Guangwu.md)
+
+Perishing in an avalanche of words, in a mundane collection of sentences called "stories".
+[Devastated?](devastated_greatness/devastated_greatness.md)
+
+Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
+
+If you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](doug-adams/deep-thought/deep-thought.md)
+
+Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
+
+[Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
+
+[Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
+
+You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
+
+You decide to quit your job to play [Pokemon Go](pokemon-go/pokemon-go.md) full time.
+
+Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
+
+Learn about Ankesh [here](characters/ankesh.md)
+
+[Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
+>>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+
+You realise that the philosphy of life in general boils down to
+that one central question... will you? or will you not?
+[So Will you?](philosophy/questions.md)
+
+You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub.
+
+You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
+
+Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
+
+so lazy [here](lazy/lazy.md)
+
+[Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
+
+Click [here](walrus/walrus.md)
+
+Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Do you like [stargazing](stargazing/stargazing.md) ?
+
+Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
+
+Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
+
+What is the meaning of life?
+To find out click [here](meaning-of-life/meaning-of-life.md).
+
+What is that shiny in the window?  Come in and take a
+[look](Computer-Man/Computer-Man.md)
+
+The [shiny device](shiny-device/shiny-device.md)
+
+Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue/trippy.md)
+
+You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
+
+If you want to play soccer, click [here](Soccer/soccer.md)
+
+If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
+
+I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](ManU/ManU.md)
+
+Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
+
+Wait! This is not the end! OMG [click me](never_ended/never_ended.md)
+
+have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
+
+Join me in [Tree of Savior!](tos/tos.md)
+
+Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
+
+How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
+
+Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
+
+You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
+
+Jason Calacanis is one of the best interviewers I've seen.
+[Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
+
+My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
+
+Maybe this is a [dream](dream/dream.md)?
+
+Or maybe you love [pugs](https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+
+Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
+
+<<<<<<< HEAD
+Have you ever heard any unusual sounds
+when you're alone?
+They're not what you think.
+Get to know them [here](blackAndwhite/blackAndwhite.md)
+
+=======
+Like football or soccer(as many others call it)? Must Watch
+[The_Greatest_Battle_Ever](https://www.youtube.com/watch?v=KyHDZqp2ThU)
+
+Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
+
+What if I told that all this is just a bunch of [files](see-files/files.md)
+>>>>>>> upstream/master
+
+A Story of Being Alone
+Read it [here](alone/alone.md)
+
+Information on some famous tv series
+[click here](famous-tv-series/famous-tv-series.md)
+
+I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+Why are you reading this line? smile and move on.
+
+Smile and move on gingerly.
+
+What is your [passion?](passion/passion.md)
+
+-
+
+searching for [good](tvf-play/watch.md) content.
+
+Do you like [tigers](tiger/tiger.md)?

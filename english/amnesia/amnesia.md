@@ -18,8 +18,13 @@ Amnesia can be freaking awesome sometimes :)
 
 Or it can be highly disturbing.
 
+Like when you wake up from a [dream](http://www.asdreams.org/) and slowly the vivid
+memory of it fades away. Like switching from one life to another.
+
 Or, it can be highly... oh, I forgot what I was going to say.
 
 Who am I?  Where am I?  What am I doing?
+
+My name is...I am Daniel.
 
 All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).

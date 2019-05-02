@@ -6,6 +6,8 @@ werfen die beiden Leichen aus dem Boot.
 Sie schnaufen einmal kräftig durch während ihnen tausend Gedanken durch den Kopf gehen...
 
 Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht näher zu kommen....
+Stattdessen sehe ich immer wieder einen kleinen Clownfisch-Piranha-Mischling an mir vorbeischwimmen
+und genüsslich an meinen Sachen nagen. 
 
 Was tun Sie?
 
@@ -21,3 +23,7 @@ Meine Kleidung hindert mich absolut am Schwimmen.
 Die Kälte des Wassers macht meine Bewegungen steif,
 die vollgesogene [Kleidung](Kleidung/Kleidung.md) macht sie träge.
 Irgendwie muss ich versuchen sie los zu werden!
+
+Die Situation scheint meinen Verstand vernebelt zu haben. 
+Die Kälte und das Wasser scheint ihr übriges zu tun. 
+Aber in einem lichten Moment erinnere ich mich an meine [Superkraefte](Superkraefte/Superkraefte.md).

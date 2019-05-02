@@ -4,3 +4,11 @@ you start to realize these pandas may not be as friendly as you thought.
 
 You turn around and the pandas all have evil grins.  They climb down from the
 bamboo and walk towards you.
+
+You don't know what to do.The pandas continue to walk towards you.
+
+You begin retreating slowly.Suddenly,one of the pandas speed up.
+
+How strong is scaffolding made of bamboo you ask?
+
+Well, not so sure. But you have no other choice to take a bamboo as a weapon against the evil pandas.
